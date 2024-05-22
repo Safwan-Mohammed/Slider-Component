@@ -1,1 +1,1 @@
-# Slider-Component
+# Slider-Component created using Javascript
